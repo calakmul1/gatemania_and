@@ -40,19 +40,19 @@ fp-lib-table
 # *.txt
 
 # Ignore output files from plotting and manufacturing exports
-*.pdf
-*.png
-*.svg
-*.ps
-*.ger
-*.gtp
-*.gto
-*.gts
-*.gbs
-*.gbo
-*.drill
-*.drl
-*.zip
+# *.pdf
+# *.png
+# *.svg
+# *.ps
+# *.ger
+# *.gtp
+# *.gto
+# *.gts
+# *.gbs
+# *.gbo
+# *.drill
+# *.drl
+# *.zip
 
 # Ignore intermediate build files
 **/tmp/**
