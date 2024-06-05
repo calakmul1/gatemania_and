@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.2*%
+%TF.CreationDate,2024-05-23T15:12:35+02:00*%
+%TF.ProjectId,gatemania_and,67617465-6d61-46e6-9961-5f616e642e6b,1.0*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.2) date 2024-05-23 15:12:35*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X66500000Y-56000000D02*
+X206500000Y-56000000D01*
+X206500000Y-136000000D01*
+X66500000Y-136000000D01*
+X66500000Y-56000000D01*
+M02*

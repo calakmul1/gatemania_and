@@ -1,0 +1,146 @@
+
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "CD4081BE" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "U" (id 0) (at -12.7 18.78 0.0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Value" "CD4081BE" (id 1) (at -12.7 -22.86 0.0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Footprint" "CD4081BE:DIP794W45P254L1930H508Q14" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "PARTREV" "September 2003" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "STANDARD" "IPC 7351B" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "SNAPEDA_PACKAGE_ID" "10604" (id 6) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MAXIMUM_PACKAGE_HEIGHT" "5.08 mm" (id 7) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MANUFACTURER" "Texas Instruments" (id 8) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (symbol "CD4081BE_0_0"
+      (rectangle (start -12.7 -20.32) (end 12.7 17.78)
+        (stroke (width 0.254)) (fill (type background))
+      )
+      (pin input line (at -17.78 10.16 0) (length 5.08)
+        (name "A"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at -17.78 7.62 0) (length 5.08)
+        (name "B"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at -17.78 2.54 0) (length 5.08)
+        (name "C"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "5"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at -17.78 0.0 0) (length 5.08)
+        (name "D"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "6"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at -17.78 -5.08 0) (length 5.08)
+        (name "E"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "8"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at -17.78 -7.62 0) (length 5.08)
+        (name "F"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "9"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at -17.78 -12.7 0) (length 5.08)
+        (name "G"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "12"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin input line (at -17.78 -15.24 0) (length 5.08)
+        (name "H"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "13"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 17.78 15.24 180.0) (length 5.08)
+        (name "VDD"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "14"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin output line (at 17.78 10.16 180.0) (length 5.08)
+        (name "J=A.B"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "3"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin output line (at 17.78 2.54 180.0) (length 5.08)
+        (name "K=C.D"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "4"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin output line (at 17.78 -5.08 180.0) (length 5.08)
+        (name "L=E.F"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "10"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin output line (at 17.78 -12.7 180.0) (length 5.08)
+        (name "M=G.H"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "11"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin power_in line (at 17.78 -17.78 180.0) (length 5.08)
+        (name "VSS"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "7"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+    )
+  )
+)
