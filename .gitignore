@@ -54,6 +54,9 @@ fp-lib-table
 # *.drl
 # *.zip
 
+# Ignore lock files
+*.lck
+
 # Ignore intermediate build files
 **/tmp/**
 **/build/**
