@@ -25,11 +25,11 @@ their development.
 
   1.2 'Compatible Licence' means
 
-       a) any earlier version of the CERN Open Hardware licence, or
+       a any earlier version of the CERN Open Hardware licence, or
 
-       b) any version of the CERN-OHL-S, or
+       b any version of the CERN-OHL-S, or
 
-       c) any licence which permits You to treat the Source to which
+       c any licence which permits You to treat the Source to which
           it applies as licensed under CERN-OHL-S provided that on
           Conveyance of any such Source, or any associated Product You
           treat the Source in question as being licensed under
@@ -54,20 +54,20 @@ their development.
   1.7 'Available Component' means any part, sub-assembly, library or
       code which:
 
-       a) is licensed to You as Complete Source under a Compatible
+       a is licensed to You as Complete Source under a Compatible
           Licence; or
 
-       b) is available, at the time a Product or the Source containing
+       b is available, at the time a Product or the Source containing
           it is first Conveyed, to You and any other prospective
           licensees
 
-            i) as a physical part with sufficient rights and
+            i as a physical part with sufficient rights and
                information (including any configuration and
                programming files and information about its
                characteristics and interfaces) to enable it either to
                be Made itself, or to be sourced and used to Make the
                Product; or
-           ii) as part of the normal distribution of a tool used to
+           ii as part of the normal distribution of a tool used to
                design or Make the Product.
 
   1.8 'Complete Source' means the set of all Source necessary to Make
@@ -144,17 +144,17 @@ their development.
   3.3 You may Convey modified Covered Source (with the effect that You
       shall also become a Licensor) provided that You:
 
-       a) retain Notices as required in subsection 3.2;
+       a retain Notices as required in subsection 3.2;
 
-       b) add a Notice to the modified Covered Source stating that You
+       b add a Notice to the modified Covered Source stating that You
           have modified it, with the date and brief description of how
           You have modified it;
 
-       c) add a Source Location Notice for the modified Covered Source
+       c add a Source Location Notice for the modified Covered Source
           if You Convey in circumstances where the recipient does not
           otherwise receive a copy of the modified Covered Source; and
 
-       d) license the modified Covered Source under the terms and
+       d license the modified Covered Source under the terms and
           conditions of this Licence (or, as set out in subsection
           8.3, a later version, if permitted by the licence of the
           original Covered Source). Such modified Covered Source must
