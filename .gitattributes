@@ -1,0 +1,43 @@
+# Ignore auto-generated files from language statistics
+*.bak linguist-generated
+*.bck linguist-generated
+*.log linguist-generated
+*.tmp linguist-generated
+*.htm linguist-generated
+
+# KiCad schematic files (treated as plain text)
+*.sch linguist-language=Plain Text
+
+# KiCad PCB files (treated as plain text)
+*.kicad_pcb linguist-language=Plain Text
+
+# KiCad project files (treated as plain text)
+*.pro linguist-language=Plain Text
+*.kicad_pro linguist-language=Plain Text
+
+# KiCad netlist files (treated as plain text)
+*.net linguist-language=Plain Text
+
+# KiCad symbol library files (treated as plain text)
+*.lib linguist-language=Plain Text
+
+# KiCad footprint library files (treated as plain text)
+*.kicad_mod linguist-language=Plain Text
+*.pretty/** linguist-language=Plain Text
+
+# Exclude documentation and image files from language statistics
+*.pdf linguist-documentation
+*.doc linguist-documentation
+*.docx linguist-documentation
+*.png linguist-vendored
+*.jpg linguist-vendored
+*.jpeg linguist-vendored
+*.svg linguist-vendored
+
+# Ignore specific directories
+__pycache__/** linguist-vendored
+.cache/** linguist-vendored
+build/** linguist-vendored
+
+# KiCad auxiliary files
+*.kicad_prl linguist-language=Plain Text
