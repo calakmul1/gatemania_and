@@ -52,7 +52,7 @@ fp-lib-table
 # *.gbo
 # *.drill
 # *.drl
-# *.zip
+*.zip
 
 # Ignore lock files
 *.lck
