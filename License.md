@@ -85,7 +85,7 @@ conditions.
 
 ## Section 2 -- Scope.
 
-  a. License grant.
+  \```a. License grant.
 
        1. Subject to the terms and conditions of this Public License,
           the Licensor hereby grants You a worldwide, royalty-free,
@@ -161,6 +161,7 @@ conditions.
           reserves any right to collect such royalties, including when
           the Licensed Material is used other than for NonCommercial
           purposes.
+          \```
 
 
 ## Section 3 -- License Conditions.
