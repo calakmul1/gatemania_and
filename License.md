@@ -144,17 +144,17 @@ their development.
   3.3 You may Convey modified Covered Source (with the effect that You
       shall also become a Licensor) provided that You:
 
-       a retain Notices as required in subsection 3.2;
+       (a) retain Notices as required in subsection 3.2;
 
-       b add a Notice to the modified Covered Source stating that You
+       (b) add a Notice to the modified Covered Source stating that You
           have modified it, with the date and brief description of how
           You have modified it;
 
-       c add a Source Location Notice for the modified Covered Source
+       (c) add a Source Location Notice for the modified Covered Source
           if You Convey in circumstances where the recipient does not
           otherwise receive a copy of the modified Covered Source; and
 
-       d license the modified Covered Source under the terms and
+       (d) license the modified Covered Source under the terms and
           conditions of this Licence (or, as set out in subsection
           8.3, a later version, if permitted by the licence of the
           original Covered Source). Such modified Covered Source must
